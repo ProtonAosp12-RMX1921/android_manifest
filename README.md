@@ -1,5 +1,4 @@
-# ProtonAOSP-lavender
-
+# ProtonAOSP-RMX1921
 ProtonAOSP is a minimal custom Android ROM focused on UI/UX and performance, with a touch of security and privacy. It is based on [Android Open Source Project (AOSP)](https://source.android.com/).
 
 ## Getting source code
@@ -37,7 +36,7 @@ $ cd WORKSPACE
 
 # Install Repo in the created directory
 # Use a real name/email combination, if you intend to submit patches
-$ repo init -u https://github.com/ProtonAOSP-lavender/android_manifest -b sc
+$ repo init -u https://github.com/ProtonAosp12-RMX1921/android_manifest -b sc
 ```
 
 ## Initializing Repo (Shallow clone) ##
@@ -52,7 +51,7 @@ $ cd WORKSPACE
 
 # Install Repo in the created directory
 # Use a real name/email combination, if you intend to submit patches
-$ repo init --depth=1 -u https://github.com/ProtonAOSP-lavender/android_manifest -b sc
+$ repo init --depth=1 -u https://github.com/ProtonAosp12-RMX1921/android_manifest -b sc
 ```
 
 ### Downloading the source tree ###
