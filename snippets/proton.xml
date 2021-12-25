@@ -154,7 +154,6 @@
   <project name="android_vendor_support" path="vendor/support" remote="proton-lavender" groups="proton" />
 
   <!-- Track modified repositories -->
-  <project name="android_vendor_qcom_opensource_thermal" path="vendor/qcom/opensource/thermal-hal" remote="proton-lavender" revision="sc" />
   <project name="android_kernel_build" path="device/qcom/kernelscripts" remote="proton-lavender" revision="sc" >
     <linkfile dest="vendor/qcom/build/tasks/kernel_definitions.mk" src="kernel_definitions.mk"/>
   </project>
