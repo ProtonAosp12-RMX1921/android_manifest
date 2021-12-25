@@ -162,4 +162,6 @@
   <project name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" path="vendor/qcom/opensource/data-ipa-cfg-mgr" remote="proton-lavender" revision="sc" />
   <project name="android_vendor_qcom_opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="proton-lavender" revision="sc" />
   <project name="android_vendor_codeaurora_telephony" path="vendor/codeaurora/telephony" remote="proton-lavender" revision="sc" />
+  <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="proton-rmx1921" revision="sc" />
+  <project path="device/qcom/sepolicy_vndr" name="android_device_qcom_sepolicy_vndr" remote="proton-rmx1921" revision="sc" />
 </manifest>
