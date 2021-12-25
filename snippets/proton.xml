@@ -161,5 +161,5 @@
   <project name="android_vendor_qcom_opensource_interfaces" path="vendor/qcom/opensource/interfaces" remote="proton-lavender" revision="sc" />
   <project name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" path="vendor/qcom/opensource/data-ipa-cfg-mgr" remote="proton-lavender" revision="sc" />
   <project name="android_vendor_qcom_opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="proton-lavender" revision="sc" />
-  <project name="android_vendor_codeaurora_telephony" path="vendor/codeaurora/commonsys/telephony" remote="proton-lavender" revision="sc" />
+  <project name="android_vendor_codeaurora_telephony" path="vendor/codeaurora/telephony" remote="proton-lavender" revision="sc" />
 </manifest>
