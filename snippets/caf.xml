@@ -10,6 +10,11 @@
           review="codeaurora.org"
           revision="refs/tags/LA.UM.9.14.r1-18300.05-LAHAINA.QSSI12.0"/>
 
+  <remote name="caf_sdm710"
+          fetch="https://source.codeaurora.org/quic/la"
+          review="codeaurora.org"
+          revision="refs/tags/LA.UM.9.8.r1-04200-SDM710.0"/>
+
   <!-- QSSI -->
   <project name="device/qcom/qssi" path="device/qcom/qssi" remote="caf_system" />
   <project name="device/qcom/qssi_32" path="device/qcom/qssi_32" remote="caf_system" />
@@ -40,4 +45,6 @@
   <project name="platform/vendor/qcom-opensource/recovery-ext" path="vendor/qcom/opensource/recovery-ext" remote="caf_vendor" />
   <project name="platform/vendor/qcom-opensource/shortcut-fe" path="shortcut-fe" remote="caf_vendor" />
   <project name="platform/vendor/qcom-opensource/time-services" path="vendor/qcom/opensource/time-services" remote="caf_vendor" />
+  <!-- CAF SDM710 -->
+  <project name="platform/vendor/qcom-opensource/wfd-commonsys" path="vendor/qcom/opensource/commonsys-intf/wfd" remote="caf_sdm710"/>
 </manifest>
