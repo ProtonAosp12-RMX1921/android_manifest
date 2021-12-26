@@ -63,4 +63,5 @@
   <remove-project name="platform/hardware/qcom/power" />
   <remove-project name="platform/hardware/qcom/thermal" />
   <remove-project name="platform/hardware/qcom/audio" />
+  <project path="vendor/qcom/opensource/power" name="proton-RMX1971/android_vendor_qcom-opensource_power" remote="github" revision="sc" />
 </manifest>
